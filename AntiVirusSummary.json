@@ -1,0 +1,50 @@
+{
+	"info": {
+		"update_time": "2022-12-23"
+	},
+	"content": [{
+			"antivirus_name": "360安全卫士",
+			"anti_virus_proc_list": ["360sd.exe", "360tray.exe", "360Safe.exe", "safesvr.exe"]
+		},
+		{
+			"antivirus_name": "360杀毒",
+			"anti_virus_proc_list": ["360sd.exe"]
+		},
+		{
+			"antivirus_name": "金山毒霸",
+			"anti_virus_proc_list": ["ksafe.exe", "KSafeSvc.exe", "KSafeTray.exe", "KWatch.exe"]
+		},
+		{
+			"antivirus_name": "腾讯电脑管家",
+			"anti_virus_proc_list": ["QQPCRTP.exe", "QQPCTray.exe"]
+		},
+		{
+			"antivirus_name": "瑞星杀毒",
+			"anti_virus_proc_list": ["rstray.exe", "ravmond.exe", "rsmain.exe"]
+		},
+		{
+			"antivirus_name": "江民杀毒",
+			"anti_virus_proc_list": ["UIHost.exe", "KVMonXP.exe", "kvsrvxp.exe", "kvxp.exe"]
+		},
+		{
+			"antivirus_name": "卡巴斯基",
+			"anti_virus_proc_list": ["AVP.exe"]
+		},
+		{
+			"antivirus_name": "迈克菲",
+			"anti_virus_proc_list": ["UpdaterUI.exe", "shstat.exe", "Tbmon.exe"]
+		},
+		{
+			"antivirus_name": "小红伞",
+			"anti_virus_proc_list": ["avfwsvc.exe", "avgnt.exe", "avguard.exe"]
+		},
+		{
+			"antivirus_name": "Norton杀毒软件",
+			"anti_virus_proc_list": ["NPFMntor.exe", "SNDSrvc.exe", "SPBBCSvc.exe", "ccSetMgr.exe", "ccEvtMgr.exe", "symlcsvc.exe", "ccApp.exe", "ccRegVfy.exe", "vptray.exe"]
+		},
+		{
+			"antivirus_name": "火绒安全软件",
+			"anti_virus_proc_list": ["HipsTray.exe", "HipsDaemon.exe", "HipsMain.exe", "wsctrlsvc.exe"]
+		}
+	]
+}
