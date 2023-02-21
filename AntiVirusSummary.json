@@ -45,6 +45,14 @@
 		{
 			"antivirus_name": "火绒安全软件",
 			"anti_virus_proc_list": ["HipsTray.exe", "HipsDaemon.exe", "HipsMain.exe", "wsctrlsvc.exe"]
+		},
+		{
+			"antivirus_name": "微软电脑管家",
+			"anti_virus_proc_list": ["MSPCManager.exe"]
+		},
+		{
+			"antivirus_name": "Windows Defender",
+			"anti_virus_proc_list": ["MsMpEng.exe"]
 		}
 	]
 }
